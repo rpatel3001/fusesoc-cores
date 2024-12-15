@@ -1,7 +1,7 @@
 CAPI=1
 [main]
 
-name = ::cdc_utils:0.1
+name = ::cdc_utils:1.1
 description = Verilog CDC implementations
 
 [fileset rtl]
